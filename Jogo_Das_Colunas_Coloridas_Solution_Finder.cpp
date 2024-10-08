@@ -1,15 +1,8 @@
 #include <bits/stdc++.h>
 
 
-//O que tem pra fazer:
-//1- Calcular tempo
-//2- Coletar dados
-//3- Fazer os slides
 
-
-
-
-const int n = 4;
+const int n = 4; // Selecione o tamanho do tabuleiro aqui
 const int depth = 24;
 const int depth_return = 24;
 const int first_bfs_limit = 10000;
